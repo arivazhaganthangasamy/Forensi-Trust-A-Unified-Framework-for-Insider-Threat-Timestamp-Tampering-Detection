@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+opencv-python
+numpy
+deepface
+fer
+keyboard
+watchdog
+Pillow
+tensorflow
+keras
